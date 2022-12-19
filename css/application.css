@@ -7,3 +7,10 @@ img {
   display: block;
   margin: 10px auto;
 }
+
+.has-text-centered {
+  width: 100%;
+  text-align: center;
+  max-width: 600px;
+  margin: 10px auto;
+}
