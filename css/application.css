@@ -5,12 +5,18 @@
 }
 
 @font-face {
-  font-family: BetinaSans;
+  font-family: BetinaSansBold;
+  src: url(../fonts/betinasans-semibold.ttf);
+}
+
+@font-face {
+  font-family: BetinaSansRegular;
   src: url(../fonts/betinasans-regular.ttf);
 }
 
 body {
   background-color: #F1BAA6;
+  font-family: BetinaSansRegular;
 }
 
 .hero img {
@@ -18,6 +24,18 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: -10vw;
+}
+
+.hero h1 {
+  font-family: BetinaSansBold;
+  text-align: center;
+  font-size: 10vw;
+  color: var(--darkred);
+}
+
+a {
+  color: var(--darkred);
 }
 
 .hero p {
