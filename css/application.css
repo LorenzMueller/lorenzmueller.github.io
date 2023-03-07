@@ -1,3 +1,9 @@
+:root {
+  --darkred: #681C1C;
+  --darkpink: #D79695;
+  --lightpink: #E8CBCA;
+}
+
 body {
   background-color: #F1BAA6;
 }
