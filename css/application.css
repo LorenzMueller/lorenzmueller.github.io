@@ -4,6 +4,11 @@
   --lightpink: #E8CBCA;
 }
 
+@font-face {
+  font-family: BetinaSans;
+  src: url(../fonts/betinasans-regular.ttf);
+}
+
 body {
   background-color: #F1BAA6;
 }
