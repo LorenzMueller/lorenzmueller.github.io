@@ -19,18 +19,18 @@ body {
   font-family: BetinaSansRegular;
 }
 
-.hero img {
+#header img {
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: -10vw;
+  margin-bottom: -5vw;
 }
 
-.hero h1 {
+#header h1 {
   font-family: BetinaSansBold;
   text-align: center;
-  font-size: 10vw;
+  font-size: 8vw;
   color: var(--darkred);
 }
 
