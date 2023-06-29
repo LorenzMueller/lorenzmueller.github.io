@@ -48,3 +48,15 @@ a {
   padding-right: 1rem;
   margin-bottom: 5rem;
 }
+
+table.table {
+  background-color: inherit;
+}
+
+table.table td.time {
+  width: 80px;
+}
+
+table.table td {
+  border: 0;
+}
